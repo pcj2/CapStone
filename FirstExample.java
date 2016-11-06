@@ -4,7 +4,7 @@ import java.sql.*;
 public class FirstExample{
     // JDBC driver name and database URL
     static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-    static final String DB_URL = "jdbc:mysql:http://54.218.54.94/phpmyadmin/";
+    static final String DB_URL = "jdbc:mysql://54.187.108.96:3306/capstone";
     
     //  Database credentials
     static final String USER = "datamaster";
